@@ -11,3 +11,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-03-23
 - Wrote notes on upcoming feature design
+
+## 2026-03-23
+- Added CONTRIBUTING.md stub
+- Updated .gitignore to exclude build artifacts
+- Resolved TODO items from previous session
